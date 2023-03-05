@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="07fb8b36-41d0-4778-800f-9f6e7d0b8ea0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/mybatis_mbg/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_mbg/src/main/java/com/zhenghuanrong/mapper/courseMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_mbg/src/main/java/com/zhenghuanrong/mapper/empMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_mbg/src/main/java/com/zhenghuanrong/mapper/empMapper.java.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_mbg/src/main/java/com/zhenghuanrong/pojo/course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_mbg/src/main/java/com/zhenghuanrong/pojo/courseExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_mbg/src/main/java/com/zhenghuanrong/pojo/emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_mbg/src/main/java/com/zhenghuanrong/pojo/emp.java.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_mbg/src/main/java/com/zhenghuanrong/pojo/empExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_mbg/src/main/java/com/zhenghuanrong/pojo/empExample.java.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_mbg/src/main/java/com/zhenghuanrong/util/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_mbg/src/main/resources/com/zhenghuanrong/mapper/courseMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_mbg/src/main/resources/com/zhenghuanrong/mapper/empMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_mbg/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_mbg/src/main/resources/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_mbg/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_mbg/target/classes/com/zhenghuanrong/mapper/empMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_mbg/target/classes/com/zhenghuanrong/mapper/empMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_mbg/target/classes/com/zhenghuanrong/pojo/emp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_mbg/target/classes/com/zhenghuanrong/pojo/empExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_mbg/target/classes/com/zhenghuanrong/pojo/empExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_mbg/target/classes/com/zhenghuanrong/pojo/empExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_mbg/target/classes/com/zhenghuanrong/pojo/empExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_mbg/target/classes/com/zhenghuanrong/util/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_mbg/target/classes/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_mbg/target/classes/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_mbg/target/classes/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself/src/main/java/com/zhr/mapper/Usermapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself/src/main/java/com/zhr/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself/src/main/java/com/zhr/util/TestSapce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself/src/main/resources/com/zhr/mapper/Usermapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself/src/main/resources/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself/target/classes/com/zhr/mapper/Usermapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself/target/classes/com/zhr/mapper/Usermapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself/target/classes/com/zhr/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself/target/classes/com/zhr/util/TestSapce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself/target/classes/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself/target/classes/mybatis-config.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UserMapper" />
+        <option value="Interface" />
+        <option value="mybatis-config" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../DevelopmentTools/apache-maven-3.9.0" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\DevelopmentTools\apache-maven-3.9.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MDxtIu2r2CWt6GxV9FnAr6rZVL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/Project/Java/Test/SSM",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\Java\Test\SSM\mybatis_mbg\src\main\resources" />
+      <recent name="D:\Project\Java\Test\SSM\myself\src\main\resources" />
+      <recent name="D:\Project\Java\Test\SSM\mybatis_dynamic\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\Java\Test\SSM\mybatis_helloworld\src\main\resources\com\zhenghuanrong\mapper" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.zhenghuanrong" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.test.select">
+    <configuration name="SqlsessionUtil.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis_helloworld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhenghuanrong.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zhenghuanrong.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.zhenghuanrong.utils.SqlsessionUtil" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SqlsessionUtil.update" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis_helloworld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhenghuanrong.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zhenghuanrong.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.zhenghuanrong.utils.SqlsessionUtil" />
+      <option name="METHOD_NAME" value="update" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sqlsessionUtil.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis_dynamic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhenghuanrong.method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zhenghuanrong.method" />
+      <option name="MAIN_CLASS_NAME" value="com.zhenghuanrong.method.sqlsessionUtil" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSapce.insert" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="myself" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhr.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zhr.util" />
+      <option name="MAIN_CLASS_NAME" value="com.zhr.util.TestSapce" />
+      <option name="METHOD_NAME" value="insert" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.select" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mybatis_mbg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhenghuanrong.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zhenghuanrong.util" />
+      <option name="MAIN_CLASS_NAME" value="com.zhenghuanrong.util.test" />
+      <option name="METHOD_NAME" value="select" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.test.select" />
+        <item itemvalue="TestNG.TestSapce.insert" />
+        <item itemvalue="JUnit.SqlsessionUtil.test02" />
+        <item itemvalue="JUnit.sqlsessionUtil.test01" />
+        <item itemvalue="JUnit.SqlsessionUtil.update" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07fb8b36-41d0-4778-800f-9f6e7d0b8ea0" name="Changes" comment="" />
+      <created>1677316168849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677316168849</updated>
+      <workItem from="1677316169992" duration="9927000" />
+      <workItem from="1677396523756" duration="10413000" />
+      <workItem from="1677498440861" duration="56000" />
+      <workItem from="1677503768913" duration="6514000" />
+      <workItem from="1677560049246" duration="20801000" />
+      <workItem from="1677744250251" duration="5765000" />
+      <workItem from="1677816354624" duration="48000" />
+      <workItem from="1677819786913" duration="6000" />
+      <workItem from="1677840512432" duration="1020000" />
+      <workItem from="1677983593654" duration="2868000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
